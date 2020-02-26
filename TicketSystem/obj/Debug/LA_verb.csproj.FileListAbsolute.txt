@@ -1,0 +1,38 @@
+C:\Users\300306851\Desktop\LA_verb\LA_verb\LA_verb\bin\Debug\LA_verb.exe.config
+C:\Users\300306851\Desktop\LA_verb\LA_verb\LA_verb\bin\Debug\LA_verb.exe
+C:\Users\300306851\Desktop\LA_verb\LA_verb\LA_verb\bin\Debug\LA_verb.pdb
+C:\Users\300306851\Desktop\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.csprojAssemblyReference.cache
+C:\Users\300306851\Desktop\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.Form1.resources
+C:\Users\300306851\Desktop\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.Properties.Resources.resources
+C:\Users\300306851\Desktop\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.csproj.GenerateResource.cache
+C:\Users\300306851\Desktop\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.csproj.CoreCompileInputs.cache
+C:\Users\300306851\Desktop\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.exe
+C:\Users\300306851\Desktop\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.pdb
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\LA_verb\LA_verb\LA_verb\bin\Debug\LA_verb.exe.config
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\LA_verb\LA_verb\LA_verb\bin\Debug\LA_verb.exe
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\LA_verb\LA_verb\LA_verb\bin\Debug\LA_verb.pdb
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.csprojAssemblyReference.cache
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.Form1.resources
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.Properties.Resources.resources
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.csproj.GenerateResource.cache
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.csproj.CoreCompileInputs.cache
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.exe
+C:\Users\luise\Dropbox\Canada\Douglas Courses\programming\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.pdb
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\LA_verb\LA_verb\LA_verb\bin\Debug\LA_verb.exe.config
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\LA_verb\LA_verb\LA_verb\bin\Debug\LA_verb.exe
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\LA_verb\LA_verb\LA_verb\bin\Debug\LA_verb.pdb
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.csprojAssemblyReference.cache
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.Form1.resources
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.Properties.Resources.resources
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.csproj.GenerateResource.cache
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.exe
+C:\Users\luisb\Dropbox\Canada\Douglas Courses\Term1\programming 1\LA_verb\LA_verb\LA_verb\obj\Debug\LA_verb.pdb
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\bin\Debug\LA_verb.exe.config
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\bin\Debug\LA_verb.exe
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\bin\Debug\LA_verb.pdb
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\obj\Debug\LA_verb.csprojAssemblyReference.cache
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\obj\Debug\LA_verb.Form1.resources
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\obj\Debug\LA_verb.Properties.Resources.resources
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\obj\Debug\LA_verb.csproj.GenerateResource.cache
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\obj\Debug\LA_verb.exe
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\obj\Debug\LA_verb.pdb

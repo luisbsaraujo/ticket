@@ -1,0 +1,14 @@
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\obj\Debug\TicketSystem.csprojAssemblyReference.cache
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\obj\Debug\TicketSystem.Form1.resources
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\obj\Debug\LA_verb.Properties.Resources.resources
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\obj\Debug\TicketSystem.csproj.GenerateResource.cache
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\obj\Debug\LA_verb.exe
+C:\Users\luisb\Desktop\git\Ticket\LA_verb\obj\Debug\LA_verb.pdb
+C:\Users\luisb\Desktop\git\Ticket\TicketSystem\obj\Debug\TicketSystem.Form1.resources
+C:\Users\luisb\Desktop\git\Ticket\TicketSystem\obj\Debug\LA_verb.Properties.Resources.resources
+C:\Users\luisb\Desktop\git\Ticket\TicketSystem\obj\Debug\TicketSystem.csproj.GenerateResource.cache
+C:\Users\luisb\Desktop\git\Ticket\TicketSystem\bin\Debug\LA_verb.exe.config
+C:\Users\luisb\Desktop\git\Ticket\TicketSystem\bin\Debug\LA_verb.exe
+C:\Users\luisb\Desktop\git\Ticket\TicketSystem\bin\Debug\LA_verb.pdb
+C:\Users\luisb\Desktop\git\Ticket\TicketSystem\obj\Debug\LA_verb.exe
+C:\Users\luisb\Desktop\git\Ticket\TicketSystem\obj\Debug\LA_verb.pdb
